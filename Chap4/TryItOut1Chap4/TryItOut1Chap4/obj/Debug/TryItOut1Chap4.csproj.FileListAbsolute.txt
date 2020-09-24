@@ -1,0 +1,7 @@
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\bin\Debug\TryItOut1Chap4.exe.config
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\bin\Debug\TryItOut1Chap4.exe
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\bin\Debug\TryItOut1Chap4.pdb
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\obj\Debug\TryItOut1Chap4.csprojAssemblyReference.cache
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\obj\Debug\TryItOut1Chap4.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\obj\Debug\TryItOut1Chap4.exe
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut1Chap4\TryItOut1Chap4\obj\Debug\TryItOut1Chap4.pdb
