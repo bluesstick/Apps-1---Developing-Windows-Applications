@@ -1,0 +1,6 @@
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut2Chap3\TryItOut2Chap3\bin\Debug\TryItOut2Chap3.exe.config
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut2Chap3\TryItOut2Chap3\bin\Debug\TryItOut2Chap3.exe
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut2Chap3\TryItOut2Chap3\bin\Debug\TryItOut2Chap3.pdb
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut2Chap3\TryItOut2Chap3\obj\Debug\TryItOut2Chap3.csproj.CoreCompileInputs.cache
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut2Chap3\TryItOut2Chap3\obj\Debug\TryItOut2Chap3.exe
+C:\Users\Edwin\OneDrive\Documentos\GitHub\TryItOut2Chap3\TryItOut2Chap3\obj\Debug\TryItOut2Chap3.pdb
