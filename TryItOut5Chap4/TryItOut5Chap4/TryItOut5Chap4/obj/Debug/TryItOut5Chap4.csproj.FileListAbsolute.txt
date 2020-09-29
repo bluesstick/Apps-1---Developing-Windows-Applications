@@ -1,7 +1,0 @@
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\obj\Debug\TryItOut5Chap4.csprojAssemblyReference.cache
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\obj\Debug\TryItOut5Chap4.csproj.CoreCompileInputs.cache
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\bin\Debug\TryItOut5Chap4.exe.config
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\bin\Debug\TryItOut5Chap4.exe
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\bin\Debug\TryItOut5Chap4.pdb
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\obj\Debug\TryItOut5Chap4.exe
-C:\Users\Edwin\OneDrive\Documentos\GitHub\Apps-1---Developing-Windows-Applications\Chap4\TryItOut5Chap4\TryItOut5Chap4\TryItOut5Chap4\obj\Debug\TryItOut5Chap4.pdb
