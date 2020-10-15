@@ -1,0 +1,9 @@
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\bin\Debug\netstandard2.0\TryItOut2Chap9.deps.json
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\bin\Debug\netstandard2.0\TryItOut2Chap9.dll
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\bin\Debug\netstandard2.0\TryItOut2Chap9.pdb
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\obj\Debug\netstandard2.0\TryItOut2Chap9.csprojAssemblyReference.cache
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\obj\Debug\netstandard2.0\TryItOut2Chap9.AssemblyInfoInputs.cache
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\obj\Debug\netstandard2.0\TryItOut2Chap9.AssemblyInfo.cs
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\obj\Debug\netstandard2.0\TryItOut2Chap9.csproj.CoreCompileInputs.cache
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\obj\Debug\netstandard2.0\TryItOut2Chap9.dll
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap9\TryItOut2Chap9\TryItOut2Chap9\obj\Debug\netstandard2.0\TryItOut2Chap9.pdb

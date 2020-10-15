@@ -1,0 +1,7 @@
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\obj\Debug\TryItOut5Chap6.csprojAssemblyReference.cache
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\obj\Debug\TryItOut5Chap6.csproj.CoreCompileInputs.cache
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\bin\Debug\TryItOut5Chap6.exe.config
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\bin\Debug\TryItOut5Chap6.exe
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\bin\Debug\TryItOut5Chap6.pdb
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\obj\Debug\TryItOut5Chap6.exe
+D:\Programing\Apps-1---Developing-Windows-Applications\Chap6\TryItOut5Chap6\TryItOut5Chap6\obj\Debug\TryItOut5Chap6.pdb

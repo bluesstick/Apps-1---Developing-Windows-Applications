@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQ0KXJKLWZ5BScj1EPXpAEucJG3iKxtKcUAt2Ib092dThRUUqS1fNtQAQ0yAtE1sDC8ZRkYjCnG2BYgwyN7Gtg==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\Apps-1---Developing-Windows-Applications\\Chap9\\TryItOut2Chap9\\TryItOut2Chap9\\TryItOut2Chap9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edwin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Edwin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
